@@ -20,10 +20,11 @@ Merci aux personnes ayant contribuées au développement de ce jeu : [Anaïs](ht
 Merci à tous les béta-testeurs ayant découvert et testé le Gazouilleur où il a été présenté :
 * Agile Tour Rennes 2024
 * Soirées Playground du CARA
+* PIAF 2024
 * Agile Tour Lille 2024
 * Agile Tour Nantais 2023
 * Agile Lyon 2023
-Merci à Klanik pour m'avoir permis d'assister à ces différentes conférences.
+Merci à Klanik pour m'avoir permis d'assister à ces différentes conférences et aux membres de son [pôle agile](https://www.linkedin.com/groups/8170142/) pour leurs retours.
 
 ## License
 
